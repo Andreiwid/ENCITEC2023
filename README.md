@@ -5,7 +5,7 @@ https://www.even3.com.br/encitec/
 Contéudo relacionado às atividades que conduzi durante o evento
 
 ## Palestra: Carreira de TI sustentável em um cenário de constante transformação
-Slides apresentados [PPTX](Carreira de TI sustentável.pptx) | [PDF](Carreira de TI sustentável.pdf)
+Slides apresentados [PPTX](https://github.com/Andreiwid/ENCITEC2023/blob/5d723e45e96f13f1b4ed4b546e51cb96f517fcdd/Carreira%20de%20TI%20sustent%C3%A1vel.pptx) | [PDF](Carreira de TI sustentável.pdf)
 
 ## Minicurso: Primeiros passos em Python para ciência de dados
 Google Colab Notebok: https://colab.research.google.com/drive/1ejmBXFcV6liJbFCqUz6zczCkA882Bw2X?usp=sharing

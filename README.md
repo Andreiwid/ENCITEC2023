@@ -5,9 +5,9 @@ https://www.even3.com.br/encitec/
 Contéudo relacionado às atividades que conduzi durante o evento
 
 ## Palestra: Carreira de TI sustentável em um cenário de constante transformação
-Slides apresentados [PPTX](https://github.com/Andreiwid/ENCITEC2023/blob/5d723e45e96f13f1b4ed4b546e51cb96f517fcdd/Carreira%20de%20TI%20sustent%C3%A1vel.pptx) | [PDF](Carreira de TI sustentável.pdf)
+Slides apresentados [PPTX](https://github.com/Andreiwid/ENCITEC2023/blob/5d723e45e96f13f1b4ed4b546e51cb96f517fcdd/Carreira%20de%20TI%20sustent%C3%A1vel.pptx) | [PDF](https://github.com/Andreiwid/ENCITEC2023/blob/787d0b25ad2bb03b52312d7b1b6b9b05a891c770/Carreira%20de%20TI%20sustent%C3%A1vel.pdf)
 
 ## Minicurso: Primeiros passos em Python para ciência de dados
 Google Colab Notebok: https://colab.research.google.com/drive/1ejmBXFcV6liJbFCqUz6zczCkA882Bw2X?usp=sharing
 
-![Pôster de divulgação das atividades]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Andreiwid/ENCITEC2023/blob/21bb07a638d8ae8f308587424450d31c8d15c86d/encitec-andreiwid-poster.jpg)https://github.com/Andreiwid/ENCITEC2023/blob/21bb07a638d8ae8f308587424450d31c8d15c86d/encitec-andreiwid-poster.jpg)
+![Pôster de divulgação das atividades](https://github.com/Andreiwid/ENCITEC2023/assets/5705417/45038741-db4b-4c4f-b458-9e22615f739b)

@@ -1,6 +1,6 @@
 # ENCITEC2023 - Encontro Científico Tecnológico de Informática do Pantanal
-# Instituto Federal do Mato Grosso do Sul (IFMS), Campus Corumbá
-# De 02 a 04 de outubro de 2023
+**Instituto Federal do Mato Grosso do Sul (IFMS), Campus Corumbá**
+**De 02 a 04 de outubro de 2023**
 https://www.even3.com.br/encitec/
 
 Contéudo relacionado às atividades que conduzi durante o evento
